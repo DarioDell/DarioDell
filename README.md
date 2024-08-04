@@ -24,6 +24,40 @@
 
 -------------------------------------------------------------------------------------
 
+<h3>🛠️ My proyects:</h3>
+
+-   [Tme Series](https://github.com/DarioDell/Univariate_time_series.git)
+   
+     NYC's public transportation system Analysis. A quick and effective way to obtain conclusions when working with univariate time series
+
+
+- [CLassification Problem](https://github.com/DarioDell/Binary_classification_problem)
+
+   A binary classification of a bank churn analysis. A very useful model for any company that provides services, capable of predicting potential clients who will leave the company:
+     - EDA
+     - Visualizations
+     - Logistic Regression
+     - Metrics: ROC - AUC. Correlation matrix
+
+- [Recommendation System](https://github.com/DarioDell/Recommendation_system)
+
+  It is an effective model applicable to any company. Normally it would be a good idea to present this type of reports to the marketing area, but the objective of this project is to demonstrate that you do not have to be an expert to be able to convert data into 
+  relevant information. The technologies used are:
+     - SQL Server: to extract the data.
+     - Python: to develop the script, all coded in python.
+     - PowerBi: technology used for the final report, DAX queries are implemented.
+ 
+ - [Regression Problem](https://github.com/DarioDell/Regression_problem)
+
+   Price prediction is one of the most common regression problems in data analysis. Through an exhaustive step-by-step analysis, good and detailed results are obtained:
+
+     - EDA
+     - Visualizations
+     - Linear Regression: Simple linear regression and Multiple linear regression
+     - Regularization techniques: Ridge regularization and Lasso regularization
+     - Metrics: Mean square error (MSE), Root Mean Square Error (RMSE), Determination coefficient (R2)
+-------------------------------------------------------------------------------------
+
 <img src="https://github.com/user-attachments/assets/850a8ee4-6f2b-458a-8c19-e1f0ca256f53" alt="python" width="125"/>
 <img src="https://github.com/user-attachments/assets/49f74d5d-e74a-4bb5-b17e-de50360d8151" alt="django" width="50"/>
 <img src="https://github.com/user-attachments/assets/97baab02-c2e5-47dc-8aee-ebaf0e1911b2" alt="pandas" width="50"/>
