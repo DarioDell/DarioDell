@@ -2,7 +2,7 @@
 <img src="https://github.com/user-attachments/assets/d90da905-c229-48e9-8ca1-a993088b1ada" width="1000"/>
 
 -------------------------------------------------------------------------------------
-<h3>Data Scientist • Data Explorer • Problem Solver • Data Analyst • Data Visualization • Python Developer • SQL </h3>
+<h3>Data Scientist • Data Explorer • Problem Solver • Data Analyst • Data Visualization • Python Developer • SQL • Machine Learning </h3>
 
  
 -------------------------------------------------------------------------------------
