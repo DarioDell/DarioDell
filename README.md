@@ -26,12 +26,12 @@
 
 <h3>🛠️ My proyects:</h3>
 
--   [Tme Series](https://github.com/DarioDell/Univariate_time_series.git)
+-   [Time Series](https://github.com/DarioDell/Univariate_time_series.git)
    
-     NYC's public transportation system Analysis. A quick and effective way to obtain conclusions when working with univariate time series
+     NYC's public transportation system Analysis. A quick and effective way to obtain conclusions when working with univariate time series.
 
 
-- [CLassification Problem](https://github.com/DarioDell/Binary_classification_problem)
+- [Classification Problem](https://github.com/DarioDell/Binary_classification_problem)
 
    A binary classification of a bank churn analysis. A very useful model for any company that provides services, capable of predicting potential clients who will leave the company:
      - EDA
