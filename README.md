@@ -13,8 +13,8 @@
 - 👨‍💻 My main stack are Python and SQL 
 - 📚 libraries: Numpy, Pandas, Matplotlib, Seaborn, Keras, TensorFlow, OpenCv, Scikit-learn, Statsmodels
 - 📐 Good in Algorithms and Data Structures
-- 💻 Supervised and unsupervised learning models | reinforcement learning | Deep learning
-- 🛢Databases: MySQL, SQL Server, MongoDB, Neo4j
+- 💻 Supervised and unsupervised learning models | reinforcement learning | Deep learning models
+- 🛢Databases: MySQL, Microsoft SQL Server, MongoDB, Neo4j
 - 📊 Databricks (Scala, PySpark)
 - 📈 PowerBi, Tableau 
 - 🌱 I’m currently continuous learning --> Cloud servicies --> AWS
