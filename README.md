@@ -10,7 +10,7 @@
 
 
 - 🎓 Graduating in 2024 from IMF Smart Education --> Data Scientist & Business Analytics
-- 👨‍💻 My main stack is Python and SQL 
+- 👨‍💻 My main stack are Python and SQL 
 - 📚 libraries: Numpy, Pandas, Matplotlib, Seaborn, Keras, TensorFlow, OpenCv, Scikit-learn, Statsmodels
 - 📐 Good in Algorithms and Data Structures
 - 💻 Supervised and unsupervised learning models | reinforcement learning | Deep learning
