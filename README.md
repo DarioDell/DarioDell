@@ -61,6 +61,8 @@
    
    A deep analysis of a store with intermediate level queries to a more advanced and detailed level.
 
+   Seeking to know the level of sales, relationship between products-customers, profitability, supplies and more relevant information of interest
+
    - MySQL
    - Python
    - Jupyter Notebook
