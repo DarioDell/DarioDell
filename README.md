@@ -58,11 +58,12 @@
      - Metrics: Mean square error (MSE), Root Mean Square Error (RMSE), Determination coefficient (R2)
   
  - [MySQL Queries](https://github.com/DarioDell/MySQL_commerce)
+   
    A deep analysis of a store with intermediate level queries to a more advanced and detailed level.
 
-   -MySQL
-   -Python
-   -Jupyter Notebook
+   - MySQL
+   - Python
+   - Jupyter Notebook
 -------------------------------------------------------------------------------------
 
 <img src="https://github.com/user-attachments/assets/850a8ee4-6f2b-458a-8c19-e1f0ca256f53" alt="python" width="125"/>
