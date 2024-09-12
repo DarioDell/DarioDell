@@ -17,7 +17,7 @@
 - 🛢Databases: MySQL, Microsoft SQL Server, MongoDB, Neo4j
 - 📊 Databricks (Scala, PySpark)
 - 📈 PowerBi, Tableau 
-- 🌱 I’m currently continuous learning --> Cloud servicies --> AWS
+- 🌱 I’m currently continuous learning --> Cloud servicies and DevOps
 - 📌 Hobbies: Cars🚗 - Football⚽️ - Work out🏋️ - Coding⌨️
 - 📫 How to reach me: dariodellagostino@gmail.com 
 
