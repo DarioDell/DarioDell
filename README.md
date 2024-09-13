@@ -9,7 +9,7 @@
   
 
 
-- 🎓 Graduating in 2024 from IMF Smart Education --> Data Scientist & Business Analytics
+- 🎓 Graduating in 2024 from IMF Smart Education --> Data Science & Business Analytics
 - 👨‍💻 My main tools are Python and SQL 
 - 📚 libraries: Numpy, Pandas, Matplotlib, Seaborn, Keras, TensorFlow, OpenCv, Scikit-learn, Statsmodels
 - 📐 Good in Algorithms and Data Structures
