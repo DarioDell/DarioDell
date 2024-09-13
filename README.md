@@ -11,7 +11,7 @@
 
 - 🎓 Graduating in 2024 from IMF Smart Education --> Data Science & Business Analytics
 - 👨‍💻 My main tools are Python and SQL 
-- 📚 libraries: Numpy, Pandas, Matplotlib, Seaborn, Keras, TensorFlow, OpenCv, Scikit-learn, Statsmodels
+- 📚 libraries: Numpy, Pandas, SciPy, Matplotlib, Seaborn, Keras, TensorFlow, OpenCv, Scikit-learn, Statsmodels
 - 📐 Good in Algorithms and Data Structures
 - 💻 Supervised and unsupervised learning models | reinforcement learning | Deep learning models
 - 🛢Databases: MySQL, Microsoft SQL Server, MongoDB, Neo4j
