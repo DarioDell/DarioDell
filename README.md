@@ -32,7 +32,7 @@
 
 -   [Multivariate Time Series](https://github.com/DarioDell/Multivariate_time_series)
 
-  Implementation of the VAR statistical model to predict a set of temporal variables. Interesting project, with an exhaustive and detailed analysis, which has been presented as a final master's project.
+  Implementation of the VAR statistical model to predict a set of temporal variables. Interesting project, with an exhaustive and detailed analysis, which has been presented as a final master's project:
   
      - EDA
      - Split the series into training and test sets
