@@ -26,9 +26,11 @@
 
 <h3>🛠️ My proyects:</h3>
 
--   [Time Series](https://github.com/DarioDell/Univariate_time_series.git)
+-   [Univariate Time Series](https://github.com/DarioDell/Univariate_time_series.git)
    
      NYC's public transportation system Analysis. A quick and effective way to obtain conclusions when working with univariate time series.
+
+-   [Multivariate Time Series](https://github.com/DarioDell/Multivariate_time_series)
 
 
 - [Classification Problem](https://github.com/DarioDell/Binary_classification_problem)
