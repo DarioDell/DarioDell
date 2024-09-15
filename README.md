@@ -61,7 +61,8 @@
 
 - [Recommendation System](https://github.com/DarioDell/Recommendation_system)
 
-  It is an effective model applicable to any company. Normally it would be a good idea to present this type of reports to the marketing area, but the objective of this project is to demonstrate that you do not have to be an expert to be able to convert data into 
+  It is an effective model applicable to any company. Normally it would be a good idea to present this type of reports to the marketing area, but the objective of this 
+  project is to demonstrate that you do not have to be an expert to be able to convert data into 
   relevant information. The technologies used are:
      - SQL Server: to extract the data.
      - Python: to develop the script, all coded in python.
