@@ -44,7 +44,7 @@
      - The forecast 
      - Inverse transformation of the forecast
      - The forecast evaluation
-  
+  -
 
 
 - [Classification Problem](https://github.com/DarioDell/Binary_classification_problem)
