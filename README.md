@@ -33,6 +33,17 @@
 -   [Multivariate Time Series](https://github.com/DarioDell/Multivariate_time_series)
 
   Implementation of the VAR statistical model to predict a set of temporal variables. Interesting project, with an exhaustive and detailed analysis, which has been presented as a final master's project.
+     - EDA
+     - Split the series into training and test sets
+     - Stationarity test
+     - Transformation of the training series
+     - Construction of a VAR model 
+     - Granger Causality
+     - Model diagnosis
+     - The forecast 
+     - Inverse transformation of the forecast
+     - The forecast evaluation
+  
 
 
 - [Classification Problem](https://github.com/DarioDell/Binary_classification_problem)
