@@ -32,6 +32,8 @@
 
 -   [Multivariate Time Series](https://github.com/DarioDell/Multivariate_time_series)
 
+  Implementation of the VAR statistical model to predict a set of temporal variables. Interesting project, with an exhaustive and detailed analysis, which has been presented as a final master's project.
+
 
 - [Classification Problem](https://github.com/DarioDell/Binary_classification_problem)
 
