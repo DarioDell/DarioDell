@@ -30,6 +30,8 @@
    
      NYC's public transportation system Analysis. A quick and effective way to obtain conclusions when working with univariate time series.
 
+
+
 -   [Multivariate Time Series](https://github.com/DarioDell/Multivariate_time_series)
 
   Implementation of the VAR statistical model to predict a set of temporal variables. Interesting project, with an exhaustive and detailed analysis, which has been presented as a final master's project:
@@ -44,7 +46,7 @@
      - The forecast 
      - Inverse transformation of the forecast
      - The forecast evaluation
-  -
+  
 
 
 - [Classification Problem](https://github.com/DarioDell/Binary_classification_problem)
