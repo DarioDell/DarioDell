@@ -92,7 +92,7 @@
 
    Convolutional neural networks (CNN) specialize in dealing with images and videos. They enable the detection of objects, identification of people, autonomous cars, etc.
 
-    - Object Localization
+    - Object localization
 -------------------------------------------------------------------------------------
 
 <img src="https://github.com/user-attachments/assets/850a8ee4-6f2b-458a-8c19-e1f0ca256f53" alt="python" width="125"/>
