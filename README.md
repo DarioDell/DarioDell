@@ -26,6 +26,13 @@
 
 <h3>🛠️ My proyects:</h3>
 
+-   [Danger in the sky](https://github.com/DarioDell/CNN_Aereal_Objects)
+   
+    This project is about developing and using a convolutional neural network (CNN) model to classify images of aerial objects.
+    Then, a risk level is assigned based on the type of object identified, making it easier to quickly detect previously unknown objects.<br>
+    Aerial threats, especially in anti-air warfare, are highly dangerous due to their high speed, requiring quick responses. Having a system that clearly identifies the type of aerial platform helps take appropriate protective measures, avoid errors in unit 
+    preparation, and confirm whether the contact is friend or foe, following the correct rules of engagement.
+
 -   [Univariate Time Series](https://github.com/DarioDell/Univariate_time_series.git)
    
      NYC's public transportation system Analysis. A quick and effective way to obtain conclusions when working with univariate time series.
@@ -78,12 +85,6 @@
      - Regularization techniques: Ridge regularization and Lasso regularization
      - Metrics: Mean square error (MSE), Root Mean Square Error (RMSE), Determination coefficient (R2)
   
- - [Danger in the sky](https://github.com/DarioDell/CNN_Aereal_Objects)
- - 
-    This project is about developing and using a convolutional neural network (CNN) model to classify images of aerial objects.
-    Then, a risk level is assigned based on the type of object identified, making it easier to quickly detect previously unknown objects.<br>
-    Aerial threats, especially in anti-air warfare, are highly dangerous due to their high speed, requiring quick responses. Having a system that clearly identifies the type of aerial platform helps take appropriate protective measures, avoid errors in unit 
-    preparation, and confirm whether the contact is friend or foe, following the correct rules of engagement.
   
  - [MySQL Queries](https://github.com/DarioDell/MySQL_commerce)
    
