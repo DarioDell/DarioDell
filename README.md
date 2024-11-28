@@ -78,6 +78,12 @@
      - Regularization techniques: Ridge regularization and Lasso regularization
      - Metrics: Mean square error (MSE), Root Mean Square Error (RMSE), Determination coefficient (R2)
   
+ - [Danger in the sky](https://github.com/DarioDell/CNN_Aereal_Objects)
+    This project is about developing and using a convolutional neural network (CNN) model to classify images of aerial objects.
+    Then, a risk level is assigned based on the type of object identified, making it easier to quickly detect previously unknown objects.
+    Aerial threats, especially in anti-air warfare, are highly dangerous due to their high speed, requiring quick responses. Having a system that clearly identifies the type of aerial platform helps take appropriate protective measures, avoid errors in unit 
+    preparation, and confirm whether the contact is friend or foe, following the correct rules of engagement.
+  
  - [MySQL Queries](https://github.com/DarioDell/MySQL_commerce)
    
    A deep analysis of a store with intermediate level queries to a more advanced and detailed level.
